@@ -1,0 +1,9 @@
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\bin\Debug\EmailCore.dll
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\bin\Debug\OpenPop.dll
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\bin\Debug\EmailCore.pdb
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Project\EmailManager\EmailManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

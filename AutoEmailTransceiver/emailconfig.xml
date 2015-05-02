@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Emails>
+  <!--邮件回复的标题，程序的逻辑是用获取的邮件标题再加上这个标题使用的-->
+  <Subject>邮件回复</Subject>
+  <!--从服务器获取邮件的时间间隔，单位为分钟-->
+  <ServerInterval>1</ServerInterval>
+  <Email Name="QQ">
+    <Pop3Server>pop.qq.com</Pop3Server>
+    <Pop3Port>995</Pop3Port>
+    <SmtpServer>smtp.qq.com</SmtpServer>
+    <SmtpPort>465</SmtpPort>
+    <SSL>true</SSL>
+    <Suffix>@qq.com</Suffix>
+  </Email>
+  <Email Name="Sina">
+    <Pop3Server>pop3.sina.com</Pop3Server>
+    <Pop3Port>110</Pop3Port>
+    <SmtpServer>smtp.sina.com</SmtpServer>
+    <SmtpPort>25</SmtpPort>
+    <SSL>false</SSL>
+    <Suffix>@sina.com</Suffix>
+  </Email>
+  <Email Name="163">
+    <Pop3Server>pop.163.com</Pop3Server>
+    <Pop3Port>110</Pop3Port>
+    <SmtpServer>smtp.163.com</SmtpServer>
+    <SmtpPort>25</SmtpPort>
+    <SSL>false</SSL>
+    <Suffix>@163.com</Suffix>
+  </Email>
+</Emails>

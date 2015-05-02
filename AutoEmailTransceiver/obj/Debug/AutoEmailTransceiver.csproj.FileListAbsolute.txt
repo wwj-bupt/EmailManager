@@ -1,0 +1,12 @@
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\bin\Debug\emailconfig.xml
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\bin\Debug\AutoEmailTransceiver.exe
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\bin\Debug\AutoEmailTransceiver.pdb
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\bin\Debug\EmailCore.dll
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\bin\Debug\OpenPop.dll
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\bin\Debug\EmailCore.pdb
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\obj\Debug\AutoEmailTransceiver.csprojResolveAssemblyReference.cache
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\obj\Debug\AutoEmailTransceiver.AutoEmailFrm.resources
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\obj\Debug\AutoEmailTransceiver.Properties.Resources.resources
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\obj\Debug\AutoEmailTransceiver.csproj.GenerateResource.Cache
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\obj\Debug\AutoEmailTransceiver.exe
+E:\Project\EmailManager\EmailManager\AutoEmailTransceiver\obj\Debug\AutoEmailTransceiver.pdb
